@@ -5,3 +5,8 @@ body {
     font-size: 45px
 };
 
+header {
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
